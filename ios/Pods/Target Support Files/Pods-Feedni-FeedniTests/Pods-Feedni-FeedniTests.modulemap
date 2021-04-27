@@ -1,0 +1,6 @@
+module Pods_Feedni_FeedniTests {
+  umbrella header "Pods-Feedni-FeedniTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

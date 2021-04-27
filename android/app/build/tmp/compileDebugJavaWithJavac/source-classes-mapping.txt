@@ -1,0 +1,14 @@
+com/feedni/ReactNativeFlipper.java
+ com.feedni.ReactNativeFlipper
+ com.feedni.ReactNativeFlipper$1
+ com.feedni.ReactNativeFlipper$2
+ com.feedni.ReactNativeFlipper$2$1
+com/feedni/MainApplication.java
+ com.feedni.MainApplication
+ com.feedni.MainApplication$1
+com/feedni/MainActivity.java
+ com.feedni.MainActivity
+com/feedni/BuildConfig.java
+ com.feedni.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

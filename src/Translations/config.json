@@ -1,0 +1,8 @@
+{
+    "languages":[
+        {"id":0, "key": "english", "name":"English"},
+        {"id":1, "key": "arabic",  "name":"Arabic"},
+        {"id":2, "key": "french", "name":"French"},
+        {"id":3, "key": "punjabi", "name":"Punjabi"}
+    ]
+}
