@@ -1,0 +1,10 @@
+{
+  "layout":"RTL",
+  "common":{
+    "yes":"Yes",
+    "no":"No"
+  },
+  "signin":{
+    "test_string":"Quand le monde veut parler, il parle Unicode. Inscrivez-vous maintenant pour assister à la 10e Conférence internationale Unicode, qui se tiendra du 10 au 12 mars 1997 à Mayence, en Allemagne. La conférence réunira des experts de tous les secteurs de l'industrie sur le World Wide Web, Internet et Unicode, où les niveaux international et local discuteront des moyens d'utiliser Unicode dans les systèmes existants et en ce qui concerne les applications informatiques, les polices, la conception de texte. et l'informatique multilingue."
+  }
+}

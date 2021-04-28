@@ -1,0 +1,6 @@
+module Pods_Feedni {
+  umbrella header "Pods-Feedni-umbrella.h"
+
+  export *
+  module * { export * }
+}
